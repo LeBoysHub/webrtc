@@ -1,0 +1,14 @@
+# Builds / envs / deps
+dist/
+venv/
+node_modules/
+
+
+
+
+
+TASK_SPEC.md
+TASK_UPDATES.md
+
+
+server/models/yolov5n.onnx
